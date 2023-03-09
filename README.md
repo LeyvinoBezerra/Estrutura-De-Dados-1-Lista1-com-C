@@ -1,6 +1,6 @@
 ## Universidade Federal Rural do Semi-Àrido - Mossoró / RN
 ## Bacharelado em Ciência da Computação 
-### Estrutura de Dados 1 
+### Disciplina de Estrutura de Dados 1 
 ### Professor: Bruno Monteiro
-### LISTA1 em C
+### LISTA 1
 ### DISCIPLINA  ESTRUTURA DE DADOS EM C
